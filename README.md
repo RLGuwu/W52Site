@@ -6,6 +6,7 @@ No Google:
 
 Site: https://w52agencia.com.br/
 
+<img width="1920" height="4406" alt="image" src="https://github.com/user-attachments/assets/fe5e12f8-db3c-46a5-8f1a-74c0676b172c" />
 
 
 ## Tecnologias utilizadas
